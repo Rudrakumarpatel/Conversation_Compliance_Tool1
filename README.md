@@ -59,17 +59,22 @@ conversation_compliance_tool/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com//conversation_compliance_tool.git
+git clone https://github.com/Rudrakumarpatel/Conversation_Compliance_Tool1
 cd conversation_compliance_tool
 ```
+### 2. LIVE PROJECT:
+```bash
+https://conversationcompliancetool1-kpm4opbywupssksvbtkxwb.streamlit.app/
 
-### 2. Create a virtual environment
+```
+
+### 3. Create a virtual environment
 ```bash
 python -m venv venv
 venv\Scripts\activate          
 ```
 
-### 3. Install dependencies
+### 4. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
