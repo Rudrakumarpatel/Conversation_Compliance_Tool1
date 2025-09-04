@@ -3,15 +3,8 @@ __pycache__/
 venv/
 .env
 .streamlit/
-tmp.*
 *.log
-models/
-*.pkl
 .DS_Store
 .vscode/
 .idea/
-call_metrics.csv
-dataset_seed.csv
-results.csv
-utterances_all.csv
 All_conversations/
